@@ -48,3 +48,6 @@ It looks easier, just follow the process! Decided to end it here, because the re
 
 # live preview:
 https://vpchar.github.io/admin-console/
+
+# Notes:
+Yet again, Safari (mac) doesn't work as Chrome. Don't these people know we had to test on different browsers, or is it too early for these compatibility issues to trow into the mess?

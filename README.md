@@ -45,3 +45,6 @@ Nice job, we will continue alone, 'cause it is not fair ;-)
 ![screenshot](./Screenshot.png)
 
 It looks easier, just follow the process! Decided to end it here, because the rest is not important for me right now ;-)
+
+# live preview:
+https://vpchar.github.io/admin-console/
